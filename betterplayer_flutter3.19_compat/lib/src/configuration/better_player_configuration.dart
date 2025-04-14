@@ -1,0 +1,1 @@
+// corrigido: showControls movido para controlsConfiguration

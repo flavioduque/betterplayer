@@ -1,0 +1,5 @@
+dependency_overrides:
+  better_player:
+    git:
+      url: https://github.com/flavioduque/betterplayer.git
+      ref: flutter3.19_compat

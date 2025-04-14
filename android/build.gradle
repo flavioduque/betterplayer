@@ -32,6 +32,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
+    namespace 'com.betterplayer.betterplayer' // ✅ Adicionado aqui
     compileSdkVersion 31
 
     compileOptions {
